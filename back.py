@@ -102,7 +102,7 @@ def analyze_text(msg):
     if risk >= 60:
         label = "FRAUD"
     elif risk >= 30:
-        label = "SUSPICIOUS"
+        label = "SUSPICIOUS omgggggg"
     else:
         label = "SAFE"
 
