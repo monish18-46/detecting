@@ -17,7 +17,7 @@ if st.button("Analyze"):
         result = analyze_text(msg)
 
         # ---------------- RESULTS ----------------
-        st.subheader("📊 Result")
+        st.subheader("📊 Resultuuuuu")
 
         # Label with color
         label = result["label"]
