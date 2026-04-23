@@ -121,7 +121,7 @@ def analyze_text(msg):
 # ---------------- PRETTY OUTPUT ----------------
 def pretty_print(result):
     print("\n" + "="*40)
-    print("🔍 SCAM ANALYSIS RESULT")
+    print("🔍 SCAM ANALYSIS RESULT of the result")
     print("="*40)
 
     print(f"🌐 Language     : {result.get('language')}")
